@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DarkMode Demo</string>
+    <string name="image_to_demonstrate_darkmode">Image to demonstrate DarkMode</string>
+    <string name="change_theme">Change theme</string>
+    <string name="theme_message">This is the Light Theme</string>
+    <string name="choose_your_theme_title">Choose your Theme</string>
+</resources>
