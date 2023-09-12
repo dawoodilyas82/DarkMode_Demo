@@ -1,10 +1,13 @@
-package com.confiz.darkmodedemo
+package com.confiz.darkmodedemo.activities
 
 import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.app.AppCompatDelegate
+import com.confiz.darkmodedemo.viewmodels.MainViewModel
+import com.confiz.darkmodedemo.utilities.MyPreferences
+import com.confiz.darkmodedemo.R
 import com.confiz.darkmodedemo.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {

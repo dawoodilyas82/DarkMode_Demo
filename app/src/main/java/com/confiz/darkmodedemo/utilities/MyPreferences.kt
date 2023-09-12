@@ -1,4 +1,4 @@
-package com.confiz.darkmodedemo
+package com.confiz.darkmodedemo.utilities
 
 import android.content.Context
 import androidx.preference.PreferenceManager
